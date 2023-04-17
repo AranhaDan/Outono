@@ -11,13 +11,8 @@
         padding-bottom: 10vh;
     }
 
-    .buff > p {
-        font-size: 3vw;
-    }
-
     .imagens > p {
         text-shadow: 2px 2px 0px black;
-        font-size: 3vw;
     }
 
     #img01 {

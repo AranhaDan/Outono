@@ -34,9 +34,9 @@ header > p {
 
 .buff > p {
     color: rgb(197, 103, 35);
-    margin-right: 200px;
+    display: inline-block;
     padding: 2em;
-    font-size: 2.7vw;
+    font-size: 3vw;
     line-height: 2em ;
 }
 
@@ -51,7 +51,7 @@ header > p {
     color: white;
     display: inline-block;
     padding: 2em;
-    font-size: 2.7vw;
+    font-size: 3vw;
     line-height: 2em;
     box-shadow: 1px 1px 10px black;
     text-shadow: 1px 1px 0px black;
