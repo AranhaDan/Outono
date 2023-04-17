@@ -36,7 +36,7 @@ header > p {
     color: rgb(197, 103, 35);
     margin-right: 200px;
     padding: 2em;
-    font-size: 3vw;
+    font-size: 1.1em;
     line-height: 2em ;
 }
 
@@ -51,10 +51,10 @@ header > p {
     color: white;
     display: inline-block;
     padding: 2em;
-    font-size: 3vw;
+    font-size: 1.1em;
     line-height: 2em;
     box-shadow: 1px 1px 10px black;
-    text-shadow: 2px 2px 0px black;
+    text-shadow: 1px 1px 0px black;
 }
 
 #img01 {
