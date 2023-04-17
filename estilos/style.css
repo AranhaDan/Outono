@@ -58,7 +58,7 @@ header > p {
 }
 
 #img01 {
-    background-image: url(../imagens/out1.jpg);
+    background-image: url(../imagens/out1p.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
@@ -66,15 +66,15 @@ header > p {
 }
 
 #img02 {
-    background-image: url(../imagens/out2.jpg);
-    background-position: top center;
+    background-image: url(../imagens/out2p.jpg);
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 
 #img03 {
-    background-image: url(../imagens/out3.jpg);
+    background-image: url(../imagens/out3p.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;

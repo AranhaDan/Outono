@@ -7,15 +7,18 @@
 }
 
     #img01 {
+        background-image: url(../imagens/out1.jpg);
         background-position-y: 75%;  
     }
 
     #img02 {
-        background-position-y: 25%;  
+        background-image: url(../imagens/out2.jpg);
+        background-position-y: 50%;  
     }
 
     #img03 {
-        background-position-y: 75%;    
+        background-image: url(../imagens/out3.jpg);
+        background-position-y: 70%;    
     }
 }
 
