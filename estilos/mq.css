@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+@media screen and (min-width:768px) {
+.buff, .imagens {
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+    #img01 {
+        background-position-y: 75%;  
+    }
+
+    #img02 {
+        background-position-y: 25%;  
+    }
+
+    #img03 {
+        background-position-y: 75%;    
+    }
+}
+
